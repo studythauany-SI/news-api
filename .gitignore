@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Editor configs
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Test/Cache
+.pytest_cache/
+.hypothesis/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite (caso use)
+db.sqlite3
+
+# Environment files
+.env
+.env.*
